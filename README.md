@@ -10,7 +10,11 @@ Q2
 developからmainにプルリクエストを送る
 
 Q3
-Forkしてforkedというブランチをfork先に作成してプルリクエストを送る
+Forkしてforkedというブランチをfork先に作成してなんでもいいのでしたに記入する
+
+『』
+
+その後、プルリクエストを送る
 このとき、reviewerにaloeclairを入れる
 
 Q4
